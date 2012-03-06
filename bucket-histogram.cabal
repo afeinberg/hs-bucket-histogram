@@ -1,0 +1,13 @@
+Name: BucketHistogram
+Version: 0.0.1
+Synopsis: Bucketed histogram
+Description: Bucketed histogram for computing quantiles
+License: MIT
+License-file: LICENSE
+Author: Alex Feinberg <alex@strlen.net>
+Maintainer: Alex Feinberg <alex@strlen.net>
+Build-Type: Simple
+Cabal-Version: >= 1.8
+
+Library
+        Build-Depends: base >= 4 && < 5
